@@ -1,0 +1,44 @@
+[INFO ] 2022-12-11 23:46:11.242 [main] Log - chrome browser is selected
+[INFO ] 2022-12-11 23:46:25.625 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> link text: Sign In] is visible
+[INFO ] 2022-12-11 23:46:27.257 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> link text: Sign In]
+[INFO ] 2022-12-11 23:46:27.497 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> id: email] is cleared
+[INFO ] 2022-12-11 23:46:27.669 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> id: email]
+[INFO ] 2022-12-11 23:46:27.881 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-11 23:46:27.951 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> id: pass] is cleared
+[INFO ] 2022-12-11 23:46:28.002 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> id: pass]
+[INFO ] 2022-12-11 23:46:28.078 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-11 23:46:28.124 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-11 23:46:28.234 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (408ab65050c21836efde1802e5cb30fe)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-11 23:50:58.059 [main] Log - chrome browser is selected
+[INFO ] 2022-12-11 23:51:07.480 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> link text: Sign In] is visible
+[INFO ] 2022-12-11 23:51:08.953 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> link text: Sign In]
+[INFO ] 2022-12-11 23:51:09.222 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> id: email] is cleared
+[INFO ] 2022-12-11 23:51:09.384 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> id: email]
+[INFO ] 2022-12-11 23:51:09.902 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-11 23:51:09.995 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> id: pass] is cleared
+[INFO ] 2022-12-11 23:51:10.068 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> id: pass]
+[INFO ] 2022-12-11 23:51:10.146 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-11 23:51:10.196 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-11 23:51:10.308 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (ab3cec59e49a934881edf50134cdcffe)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-11 23:53:29.695 [main] Log - chrome browser is selected
+[INFO ] 2022-12-11 23:53:45.778 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> link text: Sign In] is visible
+[INFO ] 2022-12-11 23:53:47.296 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> link text: Sign In]
+[INFO ] 2022-12-11 23:53:47.460 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> id: email] is cleared
+[INFO ] 2022-12-11 23:53:47.605 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> id: email]
+[INFO ] 2022-12-11 23:53:47.701 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-11 23:53:47.757 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> id: pass] is cleared
+[INFO ] 2022-12-11 23:53:47.816 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> id: pass]
+[INFO ] 2022-12-11 23:53:47.876 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-11 23:53:47.910 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-11 23:53:47.975 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (185f352adb1538b7df1e332c379f8f98)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-11 23:57:04.389 [main] Log - chrome browser is selected
+[INFO ] 2022-12-11 23:57:15.135 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> link text: Sign In] is visible
+[INFO ] 2022-12-11 23:57:17.122 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> link text: Sign In]
+[INFO ] 2022-12-11 23:57:17.273 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> id: email] is cleared
+[INFO ] 2022-12-11 23:57:17.340 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> id: email]
+[INFO ] 2022-12-11 23:57:17.485 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-11 23:57:17.559 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> id: pass] is cleared
+[INFO ] 2022-12-11 23:57:17.640 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> id: pass]
+[INFO ] 2022-12-11 23:57:17.691 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-11 23:57:17.756 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-11 23:57:17.894 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (46e63a399097c9dcdc918f9acaada1d9)] -> xpath: //*[@id='send2']/span]

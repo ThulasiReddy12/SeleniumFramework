@@ -1,0 +1,169 @@
+[INFO ] 2022-12-09 15:43:09.626 [main] Log - chrome browser is selected
+[ERROR] 2022-12-09 15:43:28.253 [main] Log - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (90ec073b9917cbb68c2dde44cd4a1a80)] -> xpath: //span[normalize-space()='My Account']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-GKPN6LK9', ip: '192.168.1.205', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Vamsi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63273}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63273/devtoo..., se:cdpVersion: 108.0.5359.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90ec073b9917cbb68c2dde44cd4a1a80
+[ERROR] 2022-12-09 15:43:28.269 [main] Log - Fail to clicked on [[ChromeDriver: chrome on WINDOWS (90ec073b9917cbb68c2dde44cd4a1a80)] -> xpath: //span[normalize-space()='My Account']]
+[ERROR] 2022-12-09 15:43:38.728 [main] Log - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (90ec073b9917cbb68c2dde44cd4a1a80)] -> xpath: (//a[normalize-space()='Login'])[1]] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-GKPN6LK9', ip: '192.168.1.205', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Vamsi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63273}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63273/devtoo..., se:cdpVersion: 108.0.5359.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90ec073b9917cbb68c2dde44cd4a1a80
+[ERROR] 2022-12-09 15:43:38.747 [main] Log - Fail to clicked on [[ChromeDriver: chrome on WINDOWS (90ec073b9917cbb68c2dde44cd4a1a80)] -> xpath: (//a[normalize-space()='Login'])[1]]
+[ERROR] 2022-12-09 15:43:39.353 [main] Log - no such element: Unable to locate element: {"method":"css selector","selector":"#input\-email"}
+  (Session info: chrome=108.0.5359.94)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-GKPN6LK9', ip: '192.168.1.205', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [90ec073b9917cbb68c2dde44cd4a1a80, findElement {using=id, value=input-email}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Vamsi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63273}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63273/devtoo..., se:cdpVersion: 108.0.5359.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90ec073b9917cbb68c2dde44cd4a1a80
+[ERROR] 2022-12-09 15:43:39.377 [main] Log - no such element: Unable to locate element: {"method":"css selector","selector":"#input\-password"}
+  (Session info: chrome=108.0.5359.94)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-GKPN6LK9', ip: '192.168.1.205', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [90ec073b9917cbb68c2dde44cd4a1a80, findElement {using=id, value=input-password}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Vamsi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63273}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63273/devtoo..., se:cdpVersion: 108.0.5359.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90ec073b9917cbb68c2dde44cd4a1a80
+[ERROR] 2022-12-09 15:43:49.437 [main] Log - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Login']' (tried for 10 second(s) with 500 milliseconds interval)
+[ERROR] 2022-12-09 15:43:49.461 [main] Log - Fail to clicked on Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Login']'
+[INFO ] 2022-12-09 16:06:30.469 [main] Log - chrome browser is selected
+[ERROR] 2022-12-09 16:06:44.325 [main] Log - no such element: Unable to locate element: {"method":"css selector","selector":"#input\-email"}
+  (Session info: chrome=108.0.5359.94)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-GKPN6LK9', ip: '127.0.0.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [78cb64aba11b2e133cd01e7a1728670f, findElement {using=id, value=input-email}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Vamsi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64093}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64093/devtoo..., se:cdpVersion: 108.0.5359.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 78cb64aba11b2e133cd01e7a1728670f
+[ERROR] 2022-12-09 16:06:44.357 [main] Log - no such element: Unable to locate element: {"method":"css selector","selector":"#input\-password"}
+  (Session info: chrome=108.0.5359.94)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-GKPN6LK9', ip: '127.0.0.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [78cb64aba11b2e133cd01e7a1728670f, findElement {using=id, value=input-password}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Vamsi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64093}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64093/devtoo..., se:cdpVersion: 108.0.5359.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 78cb64aba11b2e133cd01e7a1728670f
+[INFO ] 2022-12-09 16:20:06.152 [main] Log - chrome browser is selected
+[ERROR] 2022-12-09 16:20:19.351 [main] Log - no such element: Unable to locate element: {"method":"css selector","selector":"#input\-email"}
+  (Session info: chrome=108.0.5359.94)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-GKPN6LK9', ip: '192.168.28.31', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9074adf3dcceeefcc41271c6d32ba46a, findElement {using=id, value=input-email}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Vamsi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64669}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64669/devtoo..., se:cdpVersion: 108.0.5359.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9074adf3dcceeefcc41271c6d32ba46a
+[ERROR] 2022-12-09 16:20:19.370 [main] Log - no such element: Unable to locate element: {"method":"css selector","selector":"#input\-password"}
+  (Session info: chrome=108.0.5359.94)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-GKPN6LK9', ip: '192.168.28.31', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9074adf3dcceeefcc41271c6d32ba46a, findElement {using=id, value=input-password}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Vamsi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64669}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64669/devtoo..., se:cdpVersion: 108.0.5359.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9074adf3dcceeefcc41271c6d32ba46a
+[INFO ] 2022-12-09 16:41:06.448 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 16:42:42.036 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 16:53:10.651 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 16:53:27.023 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (ecaff5238f4a80ed281979ae5f9e0909)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 16:53:28.583 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (ecaff5238f4a80ed281979ae5f9e0909)] -> link text: Sign In]
+[INFO ] 2022-12-09 16:53:28.774 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (ecaff5238f4a80ed281979ae5f9e0909)] -> id: email] is cleared
+[INFO ] 2022-12-09 16:53:28.875 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (ecaff5238f4a80ed281979ae5f9e0909)] -> id: email]
+[INFO ] 2022-12-09 16:53:29.115 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (ecaff5238f4a80ed281979ae5f9e0909)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 16:53:29.206 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (ecaff5238f4a80ed281979ae5f9e0909)] -> id: pass] is cleared
+[INFO ] 2022-12-09 16:53:29.273 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (ecaff5238f4a80ed281979ae5f9e0909)] -> id: pass]
+[INFO ] 2022-12-09 16:53:29.350 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (ecaff5238f4a80ed281979ae5f9e0909)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 17:00:44.109 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 17:00:58.703 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (08bacefbb5d6aca53a189d5cccc90c23)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 17:01:00.327 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (08bacefbb5d6aca53a189d5cccc90c23)] -> link text: Sign In]
+[INFO ] 2022-12-09 17:01:00.527 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (08bacefbb5d6aca53a189d5cccc90c23)] -> id: email] is cleared
+[INFO ] 2022-12-09 17:01:00.609 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (08bacefbb5d6aca53a189d5cccc90c23)] -> id: email]
+[INFO ] 2022-12-09 17:01:00.773 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (08bacefbb5d6aca53a189d5cccc90c23)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 17:01:00.851 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (08bacefbb5d6aca53a189d5cccc90c23)] -> id: pass] is cleared
+[INFO ] 2022-12-09 17:01:00.916 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (08bacefbb5d6aca53a189d5cccc90c23)] -> id: pass]
+[INFO ] 2022-12-09 17:01:00.976 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (08bacefbb5d6aca53a189d5cccc90c23)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 17:01:37.295 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 17:01:52.142 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (3e92ed92c9c2ca1fbc83aea88a6eba13)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 17:01:54.626 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (3e92ed92c9c2ca1fbc83aea88a6eba13)] -> link text: Sign In]
+[INFO ] 2022-12-09 17:01:55.162 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (3e92ed92c9c2ca1fbc83aea88a6eba13)] -> id: email] is cleared
+[INFO ] 2022-12-09 17:01:55.389 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (3e92ed92c9c2ca1fbc83aea88a6eba13)] -> id: email]
+[INFO ] 2022-12-09 17:01:55.643 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (3e92ed92c9c2ca1fbc83aea88a6eba13)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 17:01:55.772 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (3e92ed92c9c2ca1fbc83aea88a6eba13)] -> id: pass] is cleared
+[INFO ] 2022-12-09 17:01:55.902 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (3e92ed92c9c2ca1fbc83aea88a6eba13)] -> id: pass]
+[INFO ] 2022-12-09 17:01:56.079 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (3e92ed92c9c2ca1fbc83aea88a6eba13)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 17:04:33.794 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 17:04:48.559 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 17:04:50.042 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> link text: Sign In]
+[INFO ] 2022-12-09 17:04:50.213 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> id: email] is cleared
+[INFO ] 2022-12-09 17:04:50.292 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> id: email]
+[INFO ] 2022-12-09 17:04:50.482 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 17:04:50.558 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> id: pass] is cleared
+[INFO ] 2022-12-09 17:04:50.624 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> id: pass]
+[INFO ] 2022-12-09 17:04:50.691 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 17:04:50.737 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-09 17:04:50.835 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (fd83c3c371625fce594ff43ab833798d)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-09 17:42:13.374 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 17:42:25.808 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 17:42:27.231 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> link text: Sign In]
+[INFO ] 2022-12-09 17:42:27.351 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> id: email] is cleared
+[INFO ] 2022-12-09 17:42:27.446 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> id: email]
+[INFO ] 2022-12-09 17:42:27.563 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 17:42:27.619 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> id: pass] is cleared
+[INFO ] 2022-12-09 17:42:27.668 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> id: pass]
+[INFO ] 2022-12-09 17:42:27.717 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 17:42:27.772 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-09 17:42:27.836 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (7ce412d99e6fbf239d08a9d7e434dd67)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-09 17:43:32.385 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 17:43:41.440 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 17:43:43.004 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> link text: Sign In]
+[INFO ] 2022-12-09 17:43:43.133 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> id: email] is cleared
+[INFO ] 2022-12-09 17:43:43.186 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> id: email]
+[INFO ] 2022-12-09 17:43:43.275 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 17:43:43.317 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> id: pass] is cleared
+[INFO ] 2022-12-09 17:43:43.359 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> id: pass]
+[INFO ] 2022-12-09 17:43:43.392 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 17:43:43.419 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-09 17:43:43.478 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (31c763dc574d3ab69d65d6530729ddfe)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-09 17:48:31.990 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 17:48:41.860 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 17:48:43.284 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> link text: Sign In]
+[INFO ] 2022-12-09 17:48:43.377 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> id: email] is cleared
+[INFO ] 2022-12-09 17:48:43.443 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> id: email]
+[INFO ] 2022-12-09 17:48:43.528 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 17:48:43.593 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> id: pass] is cleared
+[INFO ] 2022-12-09 17:48:43.644 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> id: pass]
+[INFO ] 2022-12-09 17:48:43.712 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 17:48:43.746 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-09 17:48:43.830 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (2a42f9dcf32d097fbbd16bf61d2d30fd)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-09 18:06:29.996 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 18:06:40.937 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 18:06:42.754 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> link text: Sign In]
+[INFO ] 2022-12-09 18:06:42.928 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> id: email] is cleared
+[INFO ] 2022-12-09 18:06:43.019 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> id: email]
+[INFO ] 2022-12-09 18:06:43.192 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 18:06:43.260 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> id: pass] is cleared
+[INFO ] 2022-12-09 18:06:43.311 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> id: pass]
+[INFO ] 2022-12-09 18:06:43.373 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 18:06:43.407 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-09 18:06:43.479 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (64f15d9df843d3ed397ae813b68964b5)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-09 18:10:44.028 [main] Log - chrome browser is selected
+[INFO ] 2022-12-09 18:10:54.399 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> link text: Sign In] is visible
+[INFO ] 2022-12-09 18:10:55.817 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> link text: Sign In]
+[INFO ] 2022-12-09 18:10:55.985 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> id: email] is cleared
+[INFO ] 2022-12-09 18:10:56.085 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> id: email]
+[INFO ] 2022-12-09 18:10:56.187 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-09 18:10:56.235 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> id: pass] is cleared
+[INFO ] 2022-12-09 18:10:56.275 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> id: pass]
+[INFO ] 2022-12-09 18:10:56.313 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-09 18:10:56.344 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-09 18:10:56.399 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (5707342fd7ecb507901c5e68c35a1831)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-09 18:10:56.604 [main] Log - Customer Login Magento Commerce - website to practice selenium | demo website for automation testing | selenium practice sites

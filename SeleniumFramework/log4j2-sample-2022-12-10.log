@@ -1,0 +1,12 @@
+[INFO ] 2022-12-10 20:40:02.746 [main] Log - chrome browser is selected
+[INFO ] 2022-12-10 20:40:18.239 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> link text: Sign In] is visible
+[INFO ] 2022-12-10 20:40:19.637 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> link text: Sign In]
+[INFO ] 2022-12-10 20:40:19.759 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> id: email] is cleared
+[INFO ] 2022-12-10 20:40:19.838 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> id: email]
+[INFO ] 2022-12-10 20:40:19.982 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> id: email] :rakeshchowdarykurapati@gmail
+[INFO ] 2022-12-10 20:40:20.053 [main] Log - Text in element : [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> id: pass] is cleared
+[INFO ] 2022-12-10 20:40:20.100 [main] Log - Click on Text Box: [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> id: pass]
+[INFO ] 2022-12-10 20:40:20.157 [main] Log - Enter text on [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> id: pass] :112Rakesh@
+[INFO ] 2022-12-10 20:40:20.197 [main] Log - wait for until element [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> xpath: //*[@id='send2']/span] is visible
+[INFO ] 2022-12-10 20:40:20.283 [main] Log - Click on element: [[ChromeDriver: chrome on WINDOWS (96ab03a92adc787562f234ef307b08c4)] -> xpath: //*[@id='send2']/span]
+[INFO ] 2022-12-10 20:40:20.559 [main] Log - Customer Login Magento Commerce - website to practice selenium | demo website for automation testing | selenium practice sites
