@@ -20,7 +20,7 @@ public void verifysearchedProductsIsDisplayed(){
     for(int i =1; i<2; i++){
        WebElement element = driver.findElement(By.xpath("//*[@id=\'maincontent\']/div[3]/div[1]/div[2]/div[2]/ol/li["+i+"]/div/a/span/span/img"));
     Assert.assertEquals(element.getText().contains("Gym"), true);
-
+System.out.println("just for checking");
     }
 }
 }
